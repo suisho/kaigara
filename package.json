@@ -1,0 +1,23 @@
+{
+  "name": "kaigara",
+  "version": "0.0.0",
+  "description": "TODO: Write a gem description",
+  "main": "Gruntfile.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/suisho/kaigara.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "gitHead": "5dc046d78a817af41c56ac8d3b8a70d1ac6152a8",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-watch": "~0.4.4",
+    "grunt-shell": "~0.2.2"
+  }
+}
